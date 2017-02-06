@@ -2,8 +2,8 @@
 //  PageContentViewController.swift
 //  UIPageViewControllerDemo
 //
-//  Created by Niks on 21/12/15.
-//  Copyright © 2015 TheAppGuruz. All rights reserved.
+//  Created by Shruti on 21/12/15.
+//  Copyright © 2015 tayal. All rights reserved.
 //
 
 import UIKit
